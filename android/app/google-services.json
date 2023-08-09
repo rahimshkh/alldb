@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642693940086",
+    "project_id": "alldb-ccbf8",
+    "storage_bucket": "alldb-ccbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642693940086:android:e0222df910fdc1483d7057",
+        "android_client_info": {
+          "package_name": "com.example.alldb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642693940086-3jlav8kp9rllujtk1g1r06tnmjjcpitf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADjn6CHNRj23KRWEetXR3ViLNs_AV7qVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642693940086-3jlav8kp9rllujtk1g1r06tnmjjcpitf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
